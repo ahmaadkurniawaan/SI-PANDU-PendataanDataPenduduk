@@ -37,7 +37,7 @@
                             <a class="nav-link" href="<?= base_url() ?>bantuan">Dana Bantuan</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>tentang">About</a>
+                            <a class="nav-link" href="<?= base_url() ?>penduduk/tambah">Tambah Data</a>
                         </li>
 
                     </ul>
